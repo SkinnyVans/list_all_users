@@ -1,7 +1,7 @@
 ---
 galaxy_info:
   author: SkinnyVans & ddilts
-  description: Lists all users with an accoun.
+  description: Lists all users with an account.
   license: MIT
   min_ansible_version: 2.1.0
   platforms:
