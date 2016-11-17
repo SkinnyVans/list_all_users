@@ -1,5 +1,0 @@
----
-- hosts: all
-  become: true
-  roles:
-    - list_all_users
