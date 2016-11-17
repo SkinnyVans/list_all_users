@@ -1,0 +1,18 @@
+---
+galaxy_info:
+  author: SkinnyVans & ddilts
+  description: Lists all users with an accoun.
+  license: MIT
+  min_ansible_version: 2.1.0
+  platforms:
+  - name: Ubuntu
+    versions:
+    - xenial
+    - trusty
+  galaxy_tags:
+    - user
+    - ubuntu
+    - list
+    - find
+    - locate
+    - who
