@@ -1,4 +1,3 @@
-# README.md
 # Ansible Role: List All Users
 
 An Ansible role that lists all users on all servers.
