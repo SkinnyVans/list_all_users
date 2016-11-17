@@ -3,18 +3,14 @@
 
 An Ansible role that lists all users on all servers.
 
-## Requirements
-
 ## Role Variables
 
 Available variables are listed below, along with default values:
 
     gather_facts: False
 
-## Dependencies
-
 ## Example Playbook
 
-    - hosts: webservers
+    - hosts: localhosts
       roles:
-        - { role: username.acme }
+        - { role: SkinnyVans.list_all_users }
