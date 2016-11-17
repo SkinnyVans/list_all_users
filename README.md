@@ -5,8 +5,6 @@ An Ansible role that lists all users on all servers.
 
 ## Requirements
 
-Ansible
-
 ## Role Variables
 
 Available variables are listed below, along with default values:
