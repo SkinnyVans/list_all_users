@@ -1,8 +1,7 @@
 ---  
-  pre_tasks:
     - name: install python 2
       raw: test -e /usr/bin/python || (apt -y update && apt install -y python-minimal)
-  tasks:
+      
     - name: list users
       shell: "cut -d: -f1 /etc/passwd"
       register: users
